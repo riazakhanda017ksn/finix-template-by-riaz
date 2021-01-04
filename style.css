@@ -781,7 +781,7 @@ margin-left:30px}
 }
 .exparts-social ul li {
 	display: inline-block;
-	margin: 0 9px;
+	margin: auto;
 	visibility: hidden;
 	opacity: 0;
 	transition: .5s ease-in;
@@ -799,8 +799,8 @@ margin-left:30px}
 	font-size: 20px;
 	border-radius: 50%;
 	transition: .4s;
-	margin-left: 6px;
 	position: relative;
+	margin-left: 21px;
 }
 
 
